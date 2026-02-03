@@ -43,11 +43,3 @@
 <p align="left">My name is Beatriz Alves de Oliveira, and I'm a Journalism student interested in digital communication, copywriting, and beginner-level front-end development. Here I share my studies and projects in HTML, CSS, and JavaScript, as well as experiments that combine writing, information organization, and web development. I also have supplementary training in copywriting, SEO, and design, with experience in both original and freelance content projects. This GitHub represents my learning process and professional evolution! 🦋</p>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bealvesolv/bealvesolv/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bealvesolv/bealvesolv/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bealvesolv/bealvesolv/output/pacman-contribution-graph.svg">
-</picture>
-
-###
