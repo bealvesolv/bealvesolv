@@ -36,10 +36,6 @@
 
 ###
 
-<img align="right" height="150" src= "Jovem alegre rodeada de livros e ícones.png"  />
-
-###
-
 <p align="left">My name is Beatriz Alves de Oliveira, and I'm a Journalism student interested in digital communication, copywriting, and beginner-level front-end development. Here I share my studies and projects in HTML, CSS, and JavaScript, as well as experiments that combine writing, information organization, and web development. I also have supplementary training in copywriting, SEO, and design, with experience in both original and freelance content projects. This GitHub represents my learning process and professional evolution! 🦋</p>
 
 ###
